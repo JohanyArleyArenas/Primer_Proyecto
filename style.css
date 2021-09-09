@@ -1,0 +1,50 @@
+/* selectores: id, clase, etiqueta */
+
+article{
+    background-color: aquamarine;
+}
+.noticias_artículo{
+    background-color: blueviolet;
+}
+
+.boton-personalizado{
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 20px;
+    color:#333333;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color:#FFD27D;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius:35px;
+}
+
+
+.titulo-1{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+.noticias_cuadradito{
+    display: flex;
+    justify-content: center;
+} 
+
+
+.articulo_noticias{
+    background-color: darkcyan;
+}
+
+.Noticias-1{
+    display: flex;
+    justify-content: center; 
+}
+.imagen_centro{
+    display: flex;
+    justify-content: center;
+}
+
